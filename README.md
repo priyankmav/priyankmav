@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Priyank Mavani 👋
 
-<!--
-**priyankmav/priyankmav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with an interest in building impactful apps. I love exploring new technologies and continuously improving my skills.
 
-Here are some ideas to get you started:
+- 💻 Currently working on: Wealth Panda.io - an AI based Personal Finance and Portfolio Management App.
+- 🌱 Learning: GenAI tools
+- 💬 Ask me about: Python, Backend Engineering, Data Streaming, NoSQL
+- 📫 How to reach me: priyankmavani@gmail.com
+- ⚡ Fun fact: Love visiting electronic music shows!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python
+- **Frameworks and Libraries:** FastAPI, Flask, Django
+- **Tools and Platforms:** Hadoop, AWS
+
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/pmavani/)
+- [Website Owner/Developer](https://wealthpanda.io/)
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
